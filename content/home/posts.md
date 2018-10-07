@@ -5,8 +5,8 @@ widget = "posts"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Recent Posts"
-subtitle = ""
+title = "Le ultime fiabe"
+subtitle = "Tutte le fiabe"
 
 # Order that this section will appear in.
 weight = 40
@@ -18,7 +18,7 @@ tags_include = []
 tags_exclude = []
 
 # Number of posts to list.
-count = 5
+count = 3
 
 # List format.
 #   0 = Simple
@@ -26,4 +26,3 @@ count = 5
 #   2 = Stream
 list_format = 2
 +++
-
