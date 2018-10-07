@@ -1,9 +1,8 @@
 ---
 title: Il mezzo gallettino
-abstract:
-  La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
+abstract: "La forza della promessa e speranza. Dove l'amore crea magia e la fortuna ti
   porta a fare un effervescente viaggio, nel nome del rispetto, dell'amicizia,
-  amore e della sopravvivenza.
+  amore e della sopravvivenza."
 categories: ["QUADRATO"]
 date: '2017-11-27'
 ---

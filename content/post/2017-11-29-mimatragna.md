@@ -1,11 +1,10 @@
 ---
 title: Mi Matragna
 categories: ["CERCHIO"]
-abstract:
-  Una storia vera, una donna entrata in famiglia improvvisamente che non riesce
+abstract: "Una storia vera, una donna entrata in famiglia improvvisamente che non riesce
   a capire la bellezza del mondo, una breve storia che parla del karma e delle
   conseguenze che produce il conflitto con questo. Alla fine tutto il bene
-  trionferà se sarà supportato dall'amore.
+  trionferà se sarà supportato dall'amore."
 date: '2017-11-29'
 ---
 
