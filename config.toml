@@ -274,7 +274,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#hero_carousel"
   weight = 1
 
 # [[menu.main]]
