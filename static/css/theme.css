@@ -1,7 +1,34 @@
 /*background image*/
 
 body {
-    background-color: #ffaa00 !important;
-    background-image: url("../img/triangles.png") !important;
-    color: rgba(255,255,255,1) !important;
+    background-color: #ffdd50 !important;
+    background-image: url("/img/triangles.png") !important;
+    color: #292929 !important;
+}
+
+.navbar-light {
+  background: #ffb912 !important;
+  color: #292929 !important;
+}
+
+.home-section:nth-of-type(2n) {
+    background-color: #ffdd50 !important;
+    background-image: url("/img/triangles.png") !important;
+}
+
+.home-section {
+  background-color: #ffdd50 !important;
+  background-image: url("/img/triangles.png") !important;
+}
+
+.card-simple {
+  background-color: #f2bd42 !important;
+}
+
+a {
+  color: #292929 !important;
+}
+
+a:hover {
+    color: #fff !important;
 }
