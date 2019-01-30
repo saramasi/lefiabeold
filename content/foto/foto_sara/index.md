@@ -1,6 +1,15 @@
----
-title: foto
-date: '2017-11-06'
----
++++
+title = "foto"
+date = '2017-11-06'
+[[gallery_item]]
+album = "1"
+image = "sara.jpg"
+caption = "Write your image caption here"
 
-{{< gallery album="<foto_sara>" >}}
+[[gallery_item]]
+album = "1"
+image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-dark.png"
+caption = "Dark theme"
++++
+
+{{< gallery album="1" >}}
