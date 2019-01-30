@@ -274,7 +274,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#hero_carousel"
+  url = "#about"
   weight = 1
 
 # [[menu.main]]
@@ -284,7 +284,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Fiabe"
-  url = "#posts"
+  url = "/post"
   weight = 3
 
 # [[menu.main]]
@@ -296,11 +296,6 @@ enableGitInfo = false
 #   name = "Teaching"
 #   url = "#teaching"
 #   weight = 5
-
-[[menu.main]]
-  name = "Tags"
-  url = "#tags"
-  weight = 6
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
