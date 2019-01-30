@@ -9,27 +9,32 @@ weight = 1
 
 # List your academic interests.
 [interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  Attività artistica professionale = [
+    "Percorso teatrale a progetto, nel periodo scolastico superiore."
+    "Compagnia teatrale d'improvvisazione 5 dita nella presa a Bologna.",
+    "Compagnia circense teatrale Circoinzir , progetti d'interazione tra varie culture e scambio artistico e sociale, con la creazione di laboratori scolastici a Dolores, in Guatemala nel 2014.",
+    "Compagnia circense teatrale Circoinzir in Ethiopia nel 2016."
+    "Presentatrice di spettacoli circensi, intineranti ed eventi teatrali."
+    "Partecipazione occasionale come formatrice teatrale in un musical per ragazzi."
+    "Animatrice e giocoliera di eventi, feste e spettacoli di paese."
+    "Stagione lavorativa estiva 2012 nelle piazze del nord-est Italia come Mimo, artista di strada."
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Corso di formazione in Teatro Fisico, Mimo, Acrobatica, Voce, Tip Tap, Regia, Creazione, Dizione, Giocoleria, Combattimento scenico, Teatro danza, Improvvisazione, Scrittura Comica, Commedia dell'Arte."
+  institution = "P.A.U.T. (Performer Art University Torino)"
+  year = 2010
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "progetto Europeo “Shake” circo e teatro a Berlino"
+  institution = ""
+  year = 2011
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Corso di formazione in Commedia dell'Arte"
+  institution = "Eugenio Allegri"
+  year = 2011
 
 +++
 
