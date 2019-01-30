@@ -8,8 +8,8 @@ date = 2016-04-20T00:00:00
 weight = 1
 
 # List your academic interests.
-[interests]
-  Esperienze = [
+[Esperienze]
+  Interessi = [
     "Percorso teatrale a progetto, nel periodo scolastico superiore.",
     "Compagnia teatrale d'improvvisazione 5 dita nella presa a Bologna.",
     "Compagnia circense teatrale Circoinzir , progetti d'interazione tra varie culture e scambio artistico e sociale, con la creazione di laboratori scolastici a Dolores, in Guatemala nel 2014.",
