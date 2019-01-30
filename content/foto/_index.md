@@ -1,5 +1,5 @@
 +++
-title = "Recent & Upcoming Talks"
+title = "Foto"
 date = 2017-01-01T00:00:00
 math = false
 highlight = false
@@ -14,3 +14,5 @@ list_format = 0
 image = ""
 caption = ""
 +++
+
+{{< gallery album="<foto>" >}}

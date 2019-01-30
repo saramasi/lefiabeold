@@ -287,6 +287,11 @@ enableGitInfo = false
   url = "/projects"
   weight = 4
 
+[[menu.main]]
+  name = "Photo Gallery"
+  url = "/foto"
+  weight = 5
+
 # [[menu.main]]
 #   name = "Projects"
 #   url = "#projects"
