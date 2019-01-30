@@ -10,13 +10,13 @@ weight = 1
 # List your academic interests.
 [interests]
   Esperienze = [
-    "Percorso teatrale a progetto, nel periodo scolastico superiore."
+    "Percorso teatrale a progetto, nel periodo scolastico superiore.",
     "Compagnia teatrale d'improvvisazione 5 dita nella presa a Bologna.",
     "Compagnia circense teatrale Circoinzir , progetti d'interazione tra varie culture e scambio artistico e sociale, con la creazione di laboratori scolastici a Dolores, in Guatemala nel 2014.",
-    "Compagnia circense teatrale Circoinzir in Ethiopia nel 2016."
-    "Presentatrice di spettacoli circensi, intineranti ed eventi teatrali."
-    "Partecipazione occasionale come formatrice teatrale in un musical per ragazzi."
-    "Animatrice e giocoliera di eventi, feste e spettacoli di paese."
+    "Compagnia circense teatrale Circoinzir in Ethiopia nel 2016.",
+    "Presentatrice di spettacoli circensi, intineranti ed eventi teatrali.",
+    "Partecipazione occasionale come formatrice teatrale in un musical per ragazzi.",
+    "Animatrice e giocoliera di eventi, feste e spettacoli di paese.",
     "Stagione lavorativa estiva 2012 nelle piazze del nord-est Italia come Mimo, artista di strada."
   ]
 
