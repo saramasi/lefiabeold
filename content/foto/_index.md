@@ -14,5 +14,3 @@ list_format = 0
 image = ""
 caption = ""
 +++
-
-{{< gallery album="<foto>" >}}
